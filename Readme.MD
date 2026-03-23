@@ -81,3 +81,9 @@ Aunque esta diferencia disminuye al aumentar el tamaño del bloque, sigue siendo
 El modelo teórico logró capturar la tendencia general, pero en algunos casos subestimó el tiempo real debido a factores como la caché del sistema operativo y las optimizaciones del hardware.
 
 Finalmente, estos resultados sugieren que, en sistemas reales como bases de datos, es fundamental organizar los datos para favorecer accesos secuenciales y el uso de bloques grandes, con el fin de reducir el costo de I/O y mejorar el rendimiento.
+
+---
+
+## 5. Anotración ante la entrega
+
+El archivo "dataset.bin" de la carpeta "/io_lab_data" no se carga en la presente entrega.
