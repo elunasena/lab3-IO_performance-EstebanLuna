@@ -84,6 +84,6 @@ Finalmente, estos resultados sugieren que, en sistemas reales como bases de dato
 
 ---
 
-## 5. Anotración ante la entrega
+## 5. Anotación de la entrega
 
 El archivo "dataset.bin" de la carpeta "/io_lab_data" no se carga en la presente entrega.
